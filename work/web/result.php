@@ -3,7 +3,7 @@
 require('../app/functions.php');
 
 
-
+createToken();
 
 
 
